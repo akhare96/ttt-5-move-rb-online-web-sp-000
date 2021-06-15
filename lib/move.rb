@@ -11,5 +11,5 @@ end
 def input_to_index(user_input)
   converted_input = user_input.to_i
   converted_input -= 1
-  return converted_input
+  
 end
